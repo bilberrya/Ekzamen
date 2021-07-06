@@ -35,12 +35,5 @@ namespace UnitTestProject1
             vz.simplexBol();
             Assert.AreEqual(vz.table_result[1, 0], 0,8888888);
         }
-
-        /*public void TestMethod5()
-        {
-            Simplexx vz = new Simplexx();
-            vz.Calculate();
-            Assert.AreEqual(vz.result[0], 0, 6666667);
-        }*/
     }
 }
